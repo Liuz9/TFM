@@ -1,2 +1,4 @@
 tests
+Models/*/*
+CAD/*/*
 .DS_Store
